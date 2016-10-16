@@ -1,5 +1,7 @@
 # O(n) time
 
+# Trying an iterative solution because list slicing is
+# O(n) in python since the list slice is copied.
 def largest_subset_subseq(array):
     if len(array) == 0:
         return []
