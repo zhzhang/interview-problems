@@ -1,0 +1,13 @@
+Given a list of length n, find all elements that
+appear n/3 or more times. Input is not necessarily
+sorted.
+
+Input:
+[1,1,1,2,4,3]
+Output:
+[1]
+
+Input:
+[1,1,1,1,2,2,2,3]
+Output:
+[1, 2]
