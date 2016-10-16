@@ -1,0 +1,10 @@
+Given a matrix where both the rows and columns are sorted,
+find the k-th smallest element.
+
+Input:
+1 2 3
+4 5 6
+7 8 9
+k = 4
+
+Output: 4
