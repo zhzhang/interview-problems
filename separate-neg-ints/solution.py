@@ -1,3 +1,5 @@
+# O(n) time O(1) space 
+
 def separate(array):
     index = 0
     neg_index = get_next_neg_ind(array, -1)

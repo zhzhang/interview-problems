@@ -1,5 +1,5 @@
 Given an array, send all negative numbers to the front and all
-positive numbers to the back. O(n) time O(1) memory.
+positive numbers to the back.
 
 Input:
 [-1, 1, 3, -2, 2]
