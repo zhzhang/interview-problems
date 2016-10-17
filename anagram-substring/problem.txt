@@ -1,0 +1,9 @@
+Given strings x and y, determine if any anagram (rearrangement)
+of x is a substring of y.
+
+Input:
+x = abc
+y = lkjsdfbac
+
+Output:
+true
